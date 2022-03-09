@@ -4,6 +4,8 @@ NEGATIVE = -1
 score = 0
 responses = []
 
+
+
 def main():
     print('The Rosenberg self-esteem scale is a self-esteem measure developed by the sociologist Morris Rosenberg in 1965.')
     print('It is still used in social-science research today.')
